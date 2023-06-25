@@ -1,2 +1,2 @@
 # TinDog
-Tinder themed website made using Bootstrap with some customisation.
+Tinder-themed website for dogs made using Bootstrap with some customisation.
